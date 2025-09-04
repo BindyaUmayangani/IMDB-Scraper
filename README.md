@@ -18,4 +18,5 @@ This project demonstrates **web scraping, CSV handling, OOP in Python, and email
 ## 🛠️ Requirements
 - Python **3.8+**
 - Libraries:
-  - `requests` 🔹 `beautifulsoup4`
+  - `requests`
+  - `beautifulsoup4`
